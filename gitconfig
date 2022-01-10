@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = florian-bel@hotmail.fr
+	name = florian bel
